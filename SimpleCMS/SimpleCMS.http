@@ -1,0 +1,6 @@
+@SimpleCMS_HostAddress = http://localhost:5286
+
+GET {{SimpleCMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
